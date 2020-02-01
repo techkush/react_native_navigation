@@ -3,5 +3,7 @@ React Navigation is born from the React Native community's need for an extensibl
 
 
 npm install react-navigation
+
 npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
 npm install react-navigation-stack @react-native-community/masked-view
